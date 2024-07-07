@@ -1,0 +1,294 @@
+{
+  "tension_plot_points": [
+    {
+      "roll": "1-8",
+      "name": "CONCLUSION",
+      "description": "If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None."
+    },
+    {
+      "roll": "9-24",
+      "name": "NONE",
+      "description": "Leave this Plot Point blank and go on to the next Plot Point, unless it would leave you with fewer than 2 Plot Points in this Turning Point, in which case re-roll."
+    },
+    {
+      "roll": "25-26",
+      "name": "INTO THE UNKNOWN",
+      "description": "This Turning Point involves Characters entering a situation with unknown factors. To know the unknown, you have to commit to it. For instance, a magic portal where there is no way of knowing what’s on the other side except by walking through it. Or, you discover a machine that is very powerful but you have no idea what it does, except if you turn it on. The only way to discover the unknown is to engage it, when it will be too late if you regret it."
+    },
+    {
+      "roll": "27",
+      "name": "A NEEDED RESOURCE RUNS OUT",
+      "description": "A resource a Character needs has run out. The lack will cause problems. For instance, traveling a dinosaur-filled jungle and running out of ammunition."
+    },
+    {
+      "roll": "28",
+      "name": "IMPENDING DOOM",
+      "description": "Something terrible is going to happen, and it is approaching. For instance, an enemy army is advancing to invade and will be at the borders in a week."
+    },
+    {
+      "roll": "29",
+      "name": "A MOTIVE FREE CRIME",
+      "description": "A crime is committed either in this Turning Point or is learned about in this Turning Point, with no clear reason why the crime was committed. Maybe someone was murdered for no obvious reason, or a building was broken into with nothing stolen."
+    },
+    {
+      "roll": "30",
+      "name": "COLLATERAL DAMAGE",
+      "description": "Whatever is going on in this Turning Point, the activity will spill over from the focus of that activity to things around it. This is particularly true for damaging events. For instance, a superhero defeats a villain in a downtown brawl, but doing significant damage to the buildings around them in the process. The collateral damage does not have to be physical. For instance, it could be the legal fallout from a major court decision."
+    },
+    {
+      "roll": "31-32",
+      "name": "SHADY PLACES",
+      "description": "This Turning Point involves a location that is less than legitimate, such as a back alley where drug deals are commonly transacted or a secret gambling hall in a bar."
+    },
+    {
+      "roll": "33",
+      "name": "DO IT, OR ELSE",
+      "description": "A Character is being given a task, and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat’s illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is “Do this or I will kill you”."
+    },
+    {
+      "roll": "34",
+      "name": "REMOTE LOCATION",
+      "description": "This Turning Point involves a remote location, such as a cave or a cabin in the woods."
+    },
+    {
+      "roll": "35",
+      "name": "CATASTROPHE",
+      "description": "Just about the worst thing that can happen does happen, and it happens spectacularly and with much action. This could be the impregnable fortress that gets sacked, the unstoppable superhero who gets defeated, the unsinkable ship that starts to sink."
+    },
+    {
+      "roll": "36",
+      "name": "GRISLY TONE",
+      "description": "Whatever is going on in this Turning Point, the tone of it is grisly, something that causes horror or disgust. For instance, if a note is discovered with a grisly tone it may be smeared in blood or be accompanied by a severed hand."
+    },
+    {
+      "roll": "37",
+      "name": "SOMETHING IS GETTING AWAY",
+      "description": "This Turning Point involves a time limit where, at the end of it, something will get away. For instance, a ship carrying a magic artifact is about to leave the dock and a Character has to fight their way through a pack of armed goons to board the ship before it sets sail."
+    },
+    {
+      "roll": "38-39",
+      "name": "RETALIATION",
+      "description": "Whatever is happening in this Turning Point, it involves an element of retaliation or revenge."
+    },
+    {
+      "roll": "40",
+      "name": "A CHARACTER DISAPPEARS",
+      "description": "A Character is nowhere to be found. Whether there is evidence or not as to what happened to the Character is up to you depending on the other Plot Points involved in this Turning Point."
+    },
+    {
+      "roll": "41",
+      "name": "HUNTED",
+      "description": "A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn’t have to be seeking to kill."
+    },
+    {
+      "roll": "42",
+      "name": "BAD DECISION",
+      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship’s captain decided to investigate a distress beacon in deep space, only to find it’s a trap laid by pirates."
+    },
+    {
+      "roll": "43",
+      "name": "WANTED BY THE LAW",
+      "description": "A Character is wanted for a crime. It doesn’t matter if they actually did the crime, but the law is after them as the main suspect either way."
+    },
+    {
+      "roll": "44",
+      "name": "SOMETHING EXOTIC",
+      "description": "Whatever is happening in this Turning Point involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he’s disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
+    },
+    {
+      "roll": "45",
+      "name": "IMMEDIATELY",
+      "description": "Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn’t have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action."
+    },
+    {
+      "roll": "46",
+      "name": "BETRAYAL!",
+      "description": "A Character, who was thought to be an ally or to be benign, turns on another Character. This can be a fundamental betrayal, such as they are actually on opposing sides, or it can be a momentary betrayal, such as attacking someone out of a fit of anger."
+    },
+    {
+      "roll": "47",
+      "name": "A CHARACTER IS INCAPACITATED",
+      "description": "A Character is rendered out of commission for some reason. Perhaps they are wounded badly, they lose their powers, are trapped somewhere, etc."
+    },
+    {
+      "roll": "48",
+      "name": "NOWHERE TO RUN",
+      "description": "A Character faces a peril with no means to escape."
+    },
+    {
+      "roll": "49-50",
+      "name": "AT NIGHT",
+      "description": "This Turning Point takes place at night."
+    },
+    {
+      "roll": "51",
+      "name": "A SECRET WEAPON",
+      "description": "This Turning Point involves the reveal of a secret weapon in possession by a Character. This weapon should be significant enough to sway the balance of power or to otherwise require a solution to resolve. For instance, the motley band of orcs is unexpectedly backed by a large ogre whose aid they enlisted. Or, the galactic empire unveils a new, planet-busting warship that changes everything."
+    },
+    {
+      "roll": "52",
+      "name": "HEAVILY GUARDED",
+      "description": "This Turning Point involves entering a heavily guarded and dangerous location. For instance, this could be needing to infiltrate a high tech security facility to steal information, or breaking into the necromancers lair full of guardian zombies to destroy his magic crystal."
+    },
+    {
+      "roll": "53",
+      "name": "DEAD",
+      "description": "A Character is dead. This can either be expected or unexpected, but whatever the circumstances, this Turning Point involves a dead Character."
+    },
+    {
+      "roll": "54",
+      "name": "SUSPICION",
+      "description": "This Turning Point involves a Character being suspicious of another Character for some reason. For instance, a beloved leader on a space station is murdered and suddenly every newcomer on board is viewed with suspicion."
+    },
+    {
+      "roll": "55",
+      "name": "LOSE LOSE",
+      "description": "This Turning Point involves a choice where both or all options are bad in some way."
+    },
+    {
+      "roll": "56",
+      "name": "OUT IN THE OPEN",
+      "description": "Whatever is happening in this Turning Point, it is happening out in the open for all to see. For instance, a Character is attacked at a public festival in the middle of the day, or, something a Character is doing that they thought is private is actually being filmed and viewed by others."
+    },
+    {
+      "roll": "57-58",
+      "name": "A CHARACTER IS DIMINISHED",
+      "description": "A Character is reduced in some way that makes them less effective. Perhaps they are wounded, or their energy is low, or they lose some authority, etc. The Character is not entirely powerless, but loses a significant portion of their power or utility."
+    },
+    {
+      "roll": "59",
+      "name": "ENEMIES",
+      "description": "This Turning Point involves enemies of a Character. Whatever activity is going on in this Turning Point, those enemies play an important role."
+    },
+    {
+      "roll": "60",
+      "name": "MENACING TONE",
+      "description": "This Turning Point involves a menacing tone of some kind. For instance, one Character may be threatening another Character, or a villain may be gloating over a captured opponent."
+    },
+    {
+      "roll": "61",
+      "name": "A CRUCIAL LIFE SUPPORT SYSTEM BEGINS TO FAIL",
+      "description": "This can be an actual life support system, like the oxygen ventilation of a starship, or a safety system, like the brakes on a car. The failure will constitute an emergency for the Characters involved."
+    },
+    {
+      "roll": "62",
+      "name": "VICTORY!",
+      "description": "A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king’s couriers, or a hacker worms his way into a corporate computer system."
+    },
+    {
+      "roll": "63",
+      "name": "TAKING CHANCES",
+      "description": "A Character acts in a very risky way. For instance, a Character may suddenly show no regard for their life as they walk out across a narrow beam above a valley to save a friend. Or, the villain you are fighting takes a drug that makes him go into a battle frenzy where he loses all caution."
+    },
+    {
+      "roll": "64",
+      "name": "SOLE SURVIVOR",
+      "description": "This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn’t have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien’s ultimate challenge."
+    },
+    {
+      "roll": "65-66",
+      "name": "A PROBLEM RETURNS",
+      "description": "A problem that had been thought resolved returns in some fashion. This can be a problem from this Adventure, from a previous Adventure, or something inferred from the past. For instance, a kingdom may be enjoying a decade of peace following the vanquishing of the Dark Lord, but it is discovered that he is not dead and is now returning. The magnitude of the problem is open to interpretation and can range from large to minor, such as a previously sealed leak in a boat has sprung open again."
+    },
+    {
+      "roll": "67-68",
+      "name": "STUCK",
+      "description": "A Character is stuck in this Turning Point, unable to act, while the events of the Turning Point transpire. Whatever has them stuck is not necessarily permanent, but at the moment it renders them powerless or mostly powerless. For instance, maybe the character is bound or trapped in a jail cell."
+    },
+    {
+      "roll": "69-70",
+      "name": "DISARMED",
+      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another’s kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
+    },
+    {
+      "roll": "71",
+      "name": "QUIET CATASTROPHE",
+      "description": "Just about the worst thing that can happen does happen. This is similar to the Action Plot Point Catastrophe, except that it is accompanied by less action. For instance, a colonizing spaceship stops midway through a 40 year journey, waking everyone up from their cryo sleep. Or, the investigator discovers the ancient vampire he had destroyed is, somehow, back."
+    },
+    {
+      "roll": "72",
+      "name": "STANDOFF",
+      "description": "This Turning Point involves two or more Characters in a tense standoff. For instance, a group of mercenaries have the Characters pinned down behind rubble with gunfire, while the Characters fire back. Neither side can take out the other, but neither can they leave without resolving the conflict."
+    },
+    {
+      "roll": "73",
+      "name": "HIDDEN THREAT",
+      "description": "There is a threat in this Turning Point that has been in the Adventure previous to this Turning Point but went undetected. This could be anything from an evil spirit lurking in an ancient vase to a virus in a person’s body to a good guy who turns out to be a bad guy, etc."
+    },
+    {
+      "roll": "74-75",
+      "name": "A NEED TO HIDE",
+      "description": "A Character must hide from something or someone in this Turning Point. For instance, the Character may have escaped from a bounty hunter but must hide long enough to recover their wounds. Or, a terrible storm has struck and the Character must take shelter, hiding from the storm."
+    },
+    {
+      "roll": "76-77",
+      "name": "FOLLOWED",
+      "description": "A Character is being followed by another Character."
+    },
+    {
+      "roll": "78-79",
+      "name": "IT’S A TRAP!",
+      "description": "This Turning Point involves a trap of some kind. This can be a physical trap, such as adventurers falling prey to a pit in a hallway, to other kinds of traps, such as the summons to the peace negotiation was really just a ruse to get the leader in sights for an assassination."
+    },
+    {
+      "roll": "80-81",
+      "name": "TIME LIMIT",
+      "description": "A task must be accomplished within a certain amount of time or a Character will suffer consequences. The time limit does not need to expire within this Turning Point and could extend beyond it further into the Adventure, but it should terminate within this Adventure to give the Characters a reason to accomplish the task. Failure to accomplish the task should be significant. For instance, if a cure to a toxin isn’t found within a day, the prince will die."
+    },
+    {
+      "roll": "82-83",
+      "name": "A NEEDED RESOURCE IS RUNNING SHORT",
+      "description": "A resource a Character needs is running low and will need to be replenished. This causes problems for the Character. For instance, a starship’s warp engine functions on crystals that are running out."
+    },
+    {
+      "roll": "84-85",
+      "name": "BAD NEWS",
+      "description": "Something negative that happens in this Turning Point doesn’t happen directly in the Turning Point but is delivered in the form of information. The event happened remotely, and a Character is learning of it. For instance, Characters may learn their allies lost a crucial battle elsewhere."
+    },
+    {
+      "roll": "86",
+      "name": "HUNKER DOWN",
+      "description": "This Turning Point involves a Character needing to fortify a place of refuge. For instance, a baron must shore up his castle defenses against an impending attack, or a generator must be fueled up to increase a force field’s power before a meteor storm rains down on the planet surface."
+    },
+    {
+      "roll": "87-88",
+      "name": "ABANDONED",
+      "description": "Something needs to be abandoned or has been abandoned already in this Turning Point. For instance, a heavily damaged starship is going to explode in two hours and must be evacuated. Or, a Character comes upon an empty village in a forest."
+    },
+    {
+      "roll": "89",
+      "name": "USED AGAINST THEM",
+      "description": "A resource owned or aligned with one Character is somehow turned against them in this Turning Point. For instance, a small starship is being pursued by three massive battle cruisers. By skillful piloting, the smaller ship causes the larger ships to collide with each other, using their size against them. Or, a wizard may command a powerful golem, but another wizard casts a spell to make the golem attack its master."
+    },
+    {
+      "roll": "90-91",
+      "name": "CREEPY TONE",
+      "description": "This Turning Point involves a creepy tone, such as a dark and forbidding place or a Character who is extremely menacing in a disturbing way."
+    },
+    {
+      "roll": "92",
+      "name": "TRAVEL SETTING",
+      "description": "This Turning Point takes place in a traveling vehicle. For instance, a ship at sea, a train, a ship hurtling through space, etc."
+    },
+    {
+      "roll": "93",
+      "name": "A NEW ENEMY",
+      "description": "This Turning Point presents a new threat to a Character. It is a threat that may or may not be directly related to any Plotlines but must be dealt with all the same. For instance, explorers deep under the earth are moving through an ancient ruin to find their lost comrade when they are beset upon by dinosaurs who nest in the area. This results automatically in a New Character."
+    },
+    {
+      "roll": "94",
+      "name": "RURAL SETTING",
+      "description": "This Turning Point involves a rural setting, such as out in the country or at a farm."
+    },
+    {
+      "roll": "95",
+      "name": "VULNERABILITY EXPLOITED",
+      "description": "This Turning Point involves a vulnerability of some kind being exploited by a Character. For instance, someone knowing of another’s crime and blackmailing them, Characters learning of a starbase’s secret vulnerability that allows it to be destroyed, etc. This Turning Point can either involve learning about the vulnerability or actively exploiting it.."
+    },
+    {
+      "roll": "96-100",
+      "name": "META",
+      "description": "TThis is a special Plot Point category with Plot Points that change the Characters List or combine Plotlines. Go to the Meta Plot Points Table and roll 1d100 on it for your Plot Point."
+    }
+  ]
+}

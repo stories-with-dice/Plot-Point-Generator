@@ -1,0 +1,39 @@
+{
+  "meta_plot_points": [
+     {
+      "roll": "1-18",
+      "name": "CHARACTER EXITS THE ADVENTURE",
+      "description": "A non-Player Character is completely removed from the Characters List. This can be reflected in the current Turning Point's activity, such as the character dying or exiting the story."
+    },
+    {
+      "roll": "19-27",
+      "name": "CHARACTER RETURNS",
+      "description": "A previously removed Character returns to the Adventure, written back into the Characters List. If no Characters can return, treat it as introducing a new Character."
+    },
+    {
+      "roll": "28-36",
+      "name": "CHARACTER STEPS UP",
+      "description": "A Character gains another slot on the Characters List, becoming more important. If it pushes them past 3 slots, it still applies."
+    },
+    {
+      "roll": "37-55",
+      "name": "CHARACTER STEPS DOWN",
+      "description": "A Character loses one slot on the Characters List, becoming less important. If this would remove a Player Character or a 'New Character' is rolled, choose the most logical character instead."
+    },
+    {
+      "roll": "56-73",
+      "name": "CHARACTER DOWNGRADE",
+      "description": "A Character loses two slots on the Characters List. If it would remove a Player Character or a 'New Character' is rolled, choose the most logical character instead."
+    },
+    {
+      "roll": "74-82",
+      "name": "CHARACTER UPGRADE",
+      "description": "A Character gains 2 slots on the Characters List, becoming more important. If it pushes them past 3 slots, it still applies. Treat 'New Character' as 'Choose The Most Logical Character'."
+    },
+    {
+      "roll": "83-100",
+      "name": "PLOTLINE COMBO",
+      "description": "This Turning Point involves more than one Plotline at the same time. Roll again on the Plotlines List and add that Plotline to this Turning Point along with the original. If the same Plotline is rolled again, treat it as 'Choose The Most Logical Plotline'. If no other Plotlines are available, create a new one. Apply any 'Conclusion' to the appropriate Plotline."
+    }
+  ]
+}

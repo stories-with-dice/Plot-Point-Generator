@@ -1,0 +1,259 @@
+{
+  "social_plot_points": [
+    {
+      "roll": "1-8",
+      "name": "CONCLUSION",
+      "description": "If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None."
+    },
+    {
+      "roll": "9-24",
+      "name": "NONE",
+      "description": "Leave this Plot Point blank and go on to the next Plot Point, unless it would leave you with fewer than 2 Plot Points in this Turning Point, in which case re-roll."
+    },
+    {
+      "roll": "25-26",
+      "name": "OUTCAST",
+      "description": "A Character is considered an outcast by other Characters for some reason. Maybe the Character is part of an ethnic group that is disliked in the area, or perhaps the Character is popularly believed to be the perpetrator of a heinous crime."
+    },
+    {
+      "roll": "27-28",
+      "name": "SOLD!",
+      "description": "This Turning Point involves a sale of some kind. Maybe goods are being sold, or information is being bought. Whatever is happening, goods and money are exchanging hands."
+    },
+    {
+      "roll": "29-30",
+      "name": "RETALIATION",
+      "description": "Whatever is happening in this Turning Point, it involves an element of retaliation or revenge."
+    },
+    {
+      "roll": "31",
+      "name": "A HIGH ENERGY GATHERING",
+      "description": "This Turning Point involves a social gathering with a great deal of energy or activity. This could be a busy nightclub, a loud party, or a sporting event, for instance."
+    },
+    {
+      "roll": "32",
+      "name": "A RARE OR UNIQUE SOCIAL GATHERING",
+      "description": "This is a social gathering for a specific and rare purpose. Examples would include funerals or a wedding."
+    },
+    {
+      "roll": "33-34",
+      "name": "AN ORGANIZATION",
+      "description": "This Turning Point involves an organization of some kind. This can be an organization already in the Characters List or not. Whatever is happening in this Turning Point, the organization is formally involved in some way. For instance, a crime has been committed and a local guild had knowledge of it and covered it up to protect its own interests."
+    },
+    {
+      "roll": "35",
+      "name": "PEOPLE BEHAVING BADLY",
+      "description": "This Turning Point involves someone behaving in a socially unacceptable way. For example, a group of drunks throwing bottles, or a heckler in a crowd yelling at a speaker."
+    },
+    {
+      "roll": "36",
+      "name": "FAME",
+      "description": "Whatever is happening in this Turning Point involves someone famous to some extent. This doesn’t necessarily mean that a famous Character is Invoked, just that the Turning Point has some connection to fame. For instance, if this Turning Point involves learning a secret about another Character, you may learn that they were once a member of a famous superhero group decades ago."
+    },
+    {
+      "roll": "37",
+      "name": "SCAPEGOAT",
+      "description": "This Turning Point involves an innocent Character accused of wrongdoing to throw suspicion off of the real culprit. For instance, the woman who took all the ammo blames the newcomer to the zombie survivalist group, or the mayor of the little New England town blames the practitioners of a religion for the bizarre events going on when he is actually at fault."
+    },
+    {
+      "roll": "38",
+      "name": "THE OBSERVER",
+      "description": "Whatever is happening in this Turning Point that is presumed to be private from someone, is actually being witnessed or observed. The observed are not aware of this observer. For instance, two enemy generals are meeting in secret to form an alliance and betray their respective kings, but the meeting is observed by a princess who knows exactly what it means."
+    },
+    {
+      "roll": "39",
+      "name": "LIAR!",
+      "description": "This Turning Point involves an active lie. The lie is being committed in this Turning Point. Something someone said or claimed is false. For instance, a vampire lord claims he knows nothing of a magic book, when actually he is seeking it himself. The lie may or may not be detected in this Turning Point."
+    },
+    {
+      "roll": "40-41",
+      "name": "HEADQUARTERS",
+      "description": "A setting in this Turning Point is a Character’s main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard’s wilderness tower."
+    },
+    {
+      "roll": "42-43",
+      "name": "A COMMON SOCIAL GATHERING",
+      "description": "This Turning Point involves a social gathering. This can be any gathering of people, generally for a common purpose, such as gathering for dinner at a home or restaurant, or an afternoon at a mall. The social gathering itself should be considered of a mundane nature, although what else transpires at the gathering doesn’t necessarily have to be."
+    },
+    {
+      "roll": "44-45",
+      "name": "LIGHT URBAN SETTING",
+      "description": "This Turning Point takes place in a light urban setting, such as a small town or village."
+    },
+    {
+      "roll": "46-47",
+      "name": "A WORK RELATED GATHERING",
+      "description": "This is a social gathering that involves professionals or workers. The gathering itself may or may not involve their actual work. For instance, police officers gathering at a “cop bar” or a team of super heroes gathering at their headquarters would both count."
+    },
+    {
+      "roll": "48",
+      "name": "SUSPICION",
+      "description": "This Turning Point involves a Character being suspicious of another Character for some reason. For instance, a beloved leader on a space station is murdered and suddenly every newcomer on board is viewed with suspicion."
+    },
+    {
+      "roll": "49",
+      "name": "ENEMIES",
+      "description": "This Turning Point involves enemies of a Character. Whatever activity is going on in this Turning Point, those enemies play an important role."
+    },
+    {
+      "roll": "50-51",
+      "name": "DENSE URBAN SETTING",
+      "description": "This Turning Point takes place in a heavily urban area, such as a large city."
+    },
+    {
+      "roll": "52-53",
+      "name": "A GROUP IS IN TROUBLE",
+      "description": "A group, such as a community, is in trouble in this Plot Point. The group or community is facing a difficulty. For instance, maybe a village is being harassed by monsters, or a corporation is facing a lawsuit that could destroy it. Whatever the trouble is, it should be something that can be solved and will likely constitute a problem for a Character."
+    },
+    {
+      "roll": "54",
+      "name": "TOKEN RESPONSE",
+      "description": "A Character or organization acting in this Turning Point does the bare minimum to address a problem, or makes just a token effort, as opposed to doing something truly effective. For instance, a notorious space pirate has been captured, but instead of receiving serious prison time, the federation government goes very lenient on him and releases him from prison in a week."
+    },
+    {
+      "roll": "55",
+      "name": "NOT THEIR MASTER",
+      "description": "A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who’s been trying to kill a Character doesn’t work for the mafia like you thought, but for a corporation who has an interest in that Character."
+    },
+    {
+      "roll": "56-57",
+      "name": "PUBLIC LOCATION",
+      "description": "This Turning Point involves a public location, such as a town square or a park in the middle of the day."
+    },
+    {
+      "roll": "58-59",
+      "name": "THE LEADER",
+      "description": "This Turning Point involves the leader of someone or some organization."
+    },
+    {
+      "roll": "60-61",
+      "name": "SAVIOR",
+      "description": "A Character is involved in this Turning Point who offers to save the day."
+    },
+    {
+      "roll": "62-63",
+      "name": "REINFORCEMENTS",
+      "description": "A Character who is running low on a human resource gets a boost. For instance, the battle is going poorly for King Leonard, but just before they lose King Ferdinand appears on the hill with his forces ready to save the day."
+    },
+    {
+      "roll": "64-65",
+      "name": "GOVERNMENT",
+      "description": "This Turning Point involves government in some way. Maybe a Character has to deal with a border crossing checkpoint, or a starship needs to get proper authorization to leave port."
+    },
+    {
+      "roll": "66-67",
+      "name": "INJUSTICE",
+      "description": "This Turning Point involves a social injustice of some kind. For instance, a corrupt politician uses a civic ordinance to foreclose on an apartment building where friends of a certain hero, who has upset the politician, live."
+    },
+    {
+      "roll": "68-69",
+      "name": "A CELEBRATION",
+      "description": "This Plot Point involves a celebration of some sort, such as a birthday party or a high school graduation party."
+    },
+    {
+      "roll": "70",
+      "name": "STANDOFF",
+      "description": "This Turning Point involves two or more Characters in a tense standoff. For instance, a group of mercenaries have the Characters pinned down behind rubble with gunfire, while the Characters fire back. Neither side can take out the other, but neither can they leave without resolving the conflict."
+    },
+    {
+      "roll": "71",
+      "name": "RELIGION",
+      "description": "This Turning Point involves some aspect of religion or religious belief. For instance, maybe an event is taking place at a church, or Characters stumble upon a cult preparing a magic ritual for their otherworldly god."
+    },
+    {
+      "roll": "72",
+      "name": "INNOCENCE",
+      "description": "This Turning Point involves an element of innocence, usually an innocent person in an otherwise less than innocent situation. For instance, an average citizen finds herself in the middle of two vampires battling. This can also be considered a “fish out of water” Plot Point, where someone who does not belong in a situation finds themselves in that situation."
+    },
+    {
+      "roll": "73-74",
+      "name": "PREPARATION",
+      "description": "This Turning Point involves a Character needing to prepare for something. For instance, a wizard must study up on how to banish demons before a villain arrives, or a town of prospectors and merchants must learn how to fight before the band of outlaws arrives to exact their revenge for hanging a comrade."
+    },
+    {
+      "roll": "75",
+      "name": "A MEETING OF MINDS",
+      "description": "This Turning Point involves two Characters coming together for a discussion of importance."
+    },
+    {
+      "roll": "76",
+      "name": "ORGANIZATIONS IN CONFLICT",
+      "description": "This Turning Point involves two or more organizations that are at odds with each other. For instance, two rival mafia organizations may be trying to capture a master counterfeiter to use for their own purposes."
+    },
+    {
+      "roll": "77",
+      "name": "POWERFUL PERSON",
+      "description": "This Turning Point involves a powerful person. The Character’s power can be of any nature, from a physically powerful warrior to a government figure with a lot of influence. Invoke a Character. If the Character is powerful, then that is the powerful person. If they are not, then the powerful person is someone associated with that Character in some way."
+    },
+    {
+      "roll": "78",
+      "name": "TRAVEL SETTING",
+      "description": "This Turning Point takes place in a traveling vehicle. For instance, a ship at sea, a train, a ship hurtling through space, etc."
+    },
+    {
+      "roll": "79",
+      "name": "ESCORT DUTY",
+      "description": "A Character must escort another Character somewhere. For instance, this could be a bodyguard transporting a high powered executive to a remote location, or a band of warriors trying to get a princess through a valley full of monsters."
+    },
+    {
+      "roll": "80",
+      "name": "AN OLD DEAL",
+      "description": "This Turning Point involves an agreement made long ago, probably even before this Adventure began. For instance, occult investigators researching a mysterious death discover that the deceased person sold his soul to a demon ten years ago, and they suspect the death is the demon having come to collect."
+    },
+    {
+      "roll": "81-82",
+      "name": "ALLIANCE",
+      "description": "One group offers to ally with another. This may be a surprise alliance, such as an enemy wanting to join with another enemy to take on a common foe, or it could be something less dramatic, such as the FBI offering to assist local law enforcement in solving a crime. The “groups” in question can be formal organizations or something looser, such as groups of individuals."
+    },
+    {
+      "roll": "83-84",
+      "name": "POWER OVER OTHERS",
+      "description": "A Character has power over other Characters in some way, shape, or form in this Turning Point. This power puts the Character in a commanding position in regards to the others. For instance, the lord of a land demands all the peasants pay high taxes or else his men will oppress them. Or, the producer of an anti-toxin for a disease that an entire village has demands they give him whatever he wants in order to receive the medicine."
+    },
+    {
+      "roll": "85",
+      "name": "RURAL SETTING",
+      "description": "This Turning Point involves a rural setting, such as out in the country or at a farm."
+    },
+    {
+      "roll": "86-87",
+      "name": "CORRUPTION",
+      "description": "This Turning Point involves corruption of a social apparatus of some kind. For instance, a police officer on the take from the mob, or the villain of the Adventure turns out to be a local bureaucrat using his position to give smugglers access to a dock at night."
+    },
+    {
+      "roll": "88-89",
+      "name": "IT’S BUSINESS",
+      "description": "This Turning Point involves business or commerce in some way. It can either be a business transaction, or a business is involved in the Turning Point. For instance, a corporation hires a super hero to protect an important shipment, or a book of antiquity containing a needed spell has to be purchased from an auction house."
+    },
+    {
+      "roll": "90",
+      "name": "JUST CAUSE GONE AWRY",
+      "description": "This Turning Point involves something that began as a just cause but has spiraled into something unjust. For instance, a hero takes down a group of orcs terrorizing a town, saving the people, but now the hero has installed himself as the overlord of the town and is demanding tribute."
+    },
+    {
+      "roll": "91",
+      "name": "CONFRONTATION",
+      "description": "This Turning Point involves Characters meeting in a confrontation that may turn physical if things don’t go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent."
+    },
+    {
+      "roll": "92-93",
+      "name": "ARGUMENT",
+      "description": "A disagreement between two Characters leads to a conflict in this Turning Point."
+    },
+    {
+      "roll": "94",
+      "name": "SOCIAL TENSION SET TO BOILING",
+      "description": "An element of extreme social tension is near the breaking point. This Turning Point involves some aspect of that, such as an event that increases the tension or an event that is a result of the tension. For instance, two nations at the brink of war have a border skirmish as pressure rises among soldiers."
+    },
+    {
+      "roll": "95",
+      "name": "SERVANT",
+      "description": "This Turning Point involves a servant or proxy of another Character. Invoke a Character for the servant to represent."
+    },
+    {
+      "roll": "96-100",
+      "name": "META",
+      "description": "This is a special Plot Point category with Plot Points that change the Characters List or combine Plotlines. Go to the Meta Plot Points Table and roll 1d100 on it for your Plot Point."
+    }
+  ]
+}

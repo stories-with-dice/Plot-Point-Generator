@@ -1,0 +1,239 @@
+{
+  "personal_plot_points": [
+    {
+      "roll": "1-8",
+      "name": "CONCLUSION",
+      "description": "If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None."
+    },
+    {
+      "roll": "9-24",
+      "name": "NONE",
+      "description": "Leave this Plot Point blank and go on to the next Plot Point, unless it would leave you with fewer than 2 Plot Points in this Turning Point, in which case re-roll."
+    },
+        {
+      "roll": "25-26",
+      "name": "PERSUASION",
+      "description": "A Character tries to persuade another Character to do something. This persuasion can take many forms, from pleading with them to threatening them, for instance."
+    },
+    {
+      "roll": "27",
+      "name": "DO IT, OR ELSE",
+      "description": "A Character is being given a task and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat’s illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is 'Do this or I will kill you'."
+    },
+    {
+      "roll": "28",
+      "name": "RETALIATION",
+      "description": "Whatever is happening in this Turning Point involves an element of retaliation or revenge."
+    },
+    {
+      "roll": "29",
+      "name": "BAD DECISION",
+      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship’s captain decided to investigate a distress beacon in deep space, only to find it’s a trap laid by pirates."
+    },
+    {
+      "roll": "30-31",
+      "name": "ILL WILL",
+      "description": "A Character harbors ill will toward another Character for some reason. The animosity should be deep-seated and color the Character’s reactions when it comes to the unliked Character. The dislike may be reciprocated or not."
+    },
+    {
+      "roll": "32-33",
+      "name": "WANTED BY THE LAW",
+      "description": "A Character is wanted for a crime. It doesn’t matter if they actually did the crime, but the law is after them as the main suspect either way."
+    },
+    {
+      "roll": "34-35",
+      "name": "IT IS YOUR DUTY",
+      "description": "A Character is charged with carrying out a duty. This should be something that the Character has little choice in the matter, whether they want to do it or not. Whoever the duty is coming from, that source has authority over the Character. For instance, a soldier wants to join in the pivotal battle but his commander gives him the duty of guarding the fortress gate instead."
+    },
+    {
+      "roll": "36-37",
+      "name": "CHARACTER CONNECTION SEVERED",
+      "description": "A Character who has a connection with another Character severs that connection. This can happen for any number of reasons, from the Character dropping out of the story to the Character getting angry at the other Character for something. The severed connection does not have to be permanent."
+    },
+    {
+      "roll": "38",
+      "name": "HUMILIATION",
+      "description": "This Turning Point involves a Character being humiliated or facing humiliation. Whatever is happening, it should be something deeply embarrassing to the Character. For instance, a member of an unpopular community is being bullied and mocked, or a public figure has something personal publicly exposed."
+    },
+    {
+      "roll": "39-40",
+      "name": "BETRAYAL!",
+      "description": "A Character, who was thought to be an ally or to be benign, turns on another Character. This can be a fundamental betrayal, such as they are actually on opposing sides, or it can be a momentary betrayal, such as attacking someone out of a fit of anger."
+    },
+    {
+      "roll": "41-42",
+      "name": "A CHARACTER IS INCAPACITATED",
+      "description": "A Character is rendered out of commission for some reason. Perhaps they are wounded badly, they lose their powers, are trapped somewhere, etc."
+    },
+    {
+      "roll": "43",
+      "name": "THE OBSERVER",
+      "description": "Whatever is happening in this Turning Point that is presumed to be private from someone is actually being witnessed or observed. The observed are not aware of this observer. For instance, two enemy generals are meeting in secret to form an alliance and betray their respective kings, but the meeting is observed by a princess who knows exactly what it means."
+    },
+    {
+      "roll": "44-45",
+      "name": "HOME SWEET HOME",
+      "description": "This Turning Point takes place in the private home of a Character."
+    },
+    {
+      "roll": "46",
+      "name": "HEADQUARTERS",
+      "description": "A setting in this Turning Point is a Character’s main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard’s wilderness tower."
+    },
+    {
+      "roll": "47-48",
+      "name": "FAMILY MATTERS",
+      "description": "This Turning Point involves a family member or members of a Character. For instance, an occult investigator is about to head off on a mission when his sister unexpectedly appears on his doorstep, or one of the Characters has an uncle who is a feudal lord and is summoning them for their help in defending his land because no one else will stand by him."
+    },
+    {
+      "roll": "49",
+      "name": "A FIGURE FROM THE PAST",
+      "description": "A new Character joins the Adventure, someone from a Character’s past. This Plot Point requires a new Character to be added to the Characters List and Invoked."
+    },
+    {
+      "roll": "50-51",
+      "name": "A CHARACTER IS DIMINISHED",
+      "description": "A Character is reduced in some way that makes them less effective. Perhaps they are wounded, or their energy is low, or they lose some authority, etc. The Character is not entirely powerless, but loses a significant portion of their power or utility."
+    },
+        {
+      "roll": "52-53",
+      "name": "ENEMIES",
+      "description": "This Turning Point involves enemies of a Character. Whatever activity is going on in this Turning Point, those enemies play an important role."
+    },
+    {
+      "roll": "54",
+      "name": "DOING THE RIGHT THING",
+      "description": "A Character who is acting in bad faith in some way has a change of heart and decides to do the right thing. For instance, a con man stealing medicine from a diseased community decides he can’t leave all those people to die."
+    },
+    {
+      "roll": "55-56",
+      "name": "AT YOUR MERCY",
+      "description": "A Character is helpless and desperate for some reason, and must rely on the mercy of another Character who has the power to address their problem. For instance, a Character is afflicted with a magical curse that only one sorcerer can cure."
+    },
+    {
+      "roll": "57-58",
+      "name": "FALL FROM POWER",
+      "description": "A Character loses their power in this Turning Point. For instance, a king is found to be a fraud by his brother, who asserts his own claim to the throne and takes it."
+    },
+    {
+      "roll": "59-60",
+      "name": "HELP IS OFFERED, FOR A PRICE",
+      "description": "A Character offers to help another Character in exchange for something. What’s being asked for could be anything, from mutual aid to a fee. Whatever the price, it should be steep enough to be of real significance to the paying Character."
+    },
+    {
+      "roll": "61-62",
+      "name": "PRIZED POSSESSION",
+      "description": "Whatever is happening in this Turning Point, it involves an important possession of a Character. For instance, if the Turning Point is about something being stolen, maybe a sorcerer’s magic staff is taken."
+    },
+    {
+      "roll": "63",
+      "name": "DISARMED",
+      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another’s kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
+    },
+    {
+      "roll": "64-65",
+      "name": "IT’S ALL ABOUT YOU",
+      "description": "Whatever the main action of this Turning Point, it is focused primarily on one Character."
+    },
+    {
+      "roll": "66-67",
+      "name": "CHARACTER CONNECTION",
+      "description": "A Character forms a connection with another Character. This connection can be anything from showing a personal interest in the Character to asking them to become a business partner, etc. Whatever the connection is, it will have a lasting impact beyond this Turning Point."
+    },
+    {
+      "roll": "68",
+      "name": "INNOCENCE",
+      "description": "This Turning Point involves an element of innocence, usually an innocent person in an otherwise less than innocent situation. For instance, an average citizen finds herself in the middle of two vampires battling. This can also be considered a 'fish out of water' Plot Point, where someone who does not belong in a situation finds themselves in that situation."
+    },
+    {
+      "roll": "69-70",
+      "name": "WILLING TO TALK",
+      "description": "A Character is in a mood to talk. Whatever it is they have to say, it’s important to furthering the Plotline."
+    },
+        {
+      "roll": "71-72",
+      "name": "CHARACTER HARM",
+      "description": "A Character hurts another Character in some personal way. For instance, a villain harms a wizard’s familiar or a Character hurls a personal insult at another Character."
+    },
+    {
+      "roll": "73",
+      "name": "FRAMED",
+      "description": "A Character is unfairly framed by another Character. For instance, a mob boss plants evidence to make it look like a police detective has committed a crime."
+    },
+    {
+      "roll": "74-75",
+      "name": "PREPARATION",
+      "description": "This Turning Point involves a Character needing to prepare for something. For instance, a wizard must study up on how to banish demons before a villain arrives, or a town of prospectors and merchants must learn how to fight before the band of outlaws arrives to exact their revenge for hanging a comrade."
+    },
+    {
+      "roll": "76",
+      "name": "FRIEND FOCUS",
+      "description": "Whatever the main action of this Turning Point, it is focused on a friend or someone close to a Character. This friend can be an already existing Character in the Adventure or someone not on the Characters List. Whoever the friend is attached to, that is the Character Invoked, not the friend."
+    },
+    {
+      "roll": "77",
+      "name": "UNTOUCHABLE",
+      "description": "A Character is, in some manner, untouchable by others in this Turning Point. For instance, a villain who is a world leader and thus can’t be directly attacked without triggering an international incident, or a superhero who is nearly impervious to harm. The untouchableness should serve a plot purpose, so that Characters are forced to take other actions to advance the Plotline."
+    },
+    {
+      "roll": "78",
+      "name": "BRIBE",
+      "description": "A Character is offered a bribe by another Character to do something that is not legitimate. For instance, a villain may offer money to a Character if they walk away from a murder scene."
+    },
+    {
+      "roll": "79-80",
+      "name": "CHARACTER ASSISTANCE",
+      "description": "A Character assists another Character in some way. This assistance can be anything from coming to their aid in battle to giving them a shoulder to cry on."
+    },
+    {
+      "roll": "81-82",
+      "name": "ASKING FOR HELP",
+      "description": "A Character approaches another Character to ask for help."
+    },
+    {
+      "roll": "83",
+      "name": "WELCOME TO THE PLOT",
+      "description": "A Character learns that they are connected to this Plotline somehow in a personal way. Maybe it involves something from their past or someone in their life. For instance, a detective may discover that the crime syndicate he is trying to take down is run by his long lost brother."
+    },
+    {
+      "roll": "84",
+      "name": "LIKEABLE",
+      "description": "This Turning Point involves a Character who is very likable to another Character. Whoever it is, it should be someone who generates sympathy. The Character’s likability should be strong enough to motivate the other Character’s actions. For instance, a jaded cop thought he has seen it all, but a kidnapped girl kindles in him a desire to save her and redeem himself."
+    },
+    {
+      "roll": "85-86",
+      "name": "THE PROMISE OF REWARD",
+      "description": "This Turning Point involves a Character faced with a substantial reward for their participation. For instance, maybe a village is willing to give a group of adventurers everything they have if they fight off a band of marauding goblins. The reward should be for doing something that is considered legitimate or good."
+    },
+    {
+      "roll": "87",
+      "name": "EXPERT KNOWLEDGE",
+      "description": "This Turning Point involves a Character who has very specific and specialized knowledge or skills that come into play during the Turning Point. For instance, only the genius of Dr. Rayder can figure out the intricacies of the alien device, or it’s discovered that a killer is murdering people with his knowledge of exotic poisons."
+    },
+    {
+      "roll": "88-89",
+      "name": "A FOCUS ON THE MUNDANE",
+      "description": "This Turning Point involves a focus on something mundane and ordinary, such as a person’s living room or a meal. This mundane thing may be coupled with something extraordinary in the Turning Point. For instance, a Character is killed when his nightly dinner is poisoned, or a family portrait is found to be a cursed item."
+    },
+    {
+      "roll": "90-91",
+      "name": "RUN AWAY!",
+      "description": "A Character flees or has fled. The actual flight may occur in this Turning Point or it may be learned of. For instance, a Character runs screaming as a horrible monster appears on the scene, or, a Character who disappeared earlier in the Adventure is learned to have left town fearing for his life."
+    },
+    {
+      "roll": "92-93",
+      "name": "PROTECTOR",
+      "description": "A Character must protect someone or something in this Turning Point. If this is an Action Plot Point, the Character must actively protect in this Turning Point from a threat. If it is a Personal Plot Point, then the Character receives the protection duty in this Turning Point."
+    },
+    {
+      "roll": "94-95",
+      "name": "SERVANT",
+      "description": "This Turning Point involves a servant or proxy of another Character. Invoke a Character for the servant to represent."
+    },
+    {
+      "roll": "96-100",
+      "name": "META",
+      "description": "This is a special Plot Point category with Plot Points that change the Characters List or combine Plotlines. Go to the Meta Plot Points Table and roll 1d100 on it for your Plot Point."
+    }
+  ]
+}
