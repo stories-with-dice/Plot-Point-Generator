@@ -115,7 +115,8 @@ if __name__ == "__main__":
 
 	themes = values_to_themes(values)
 
-
+	# Debugging: print the list of themes to check if all are processed
+	print(f"Themes: {themes}")  # This should print all 5 themes in one line
 
 	while True:
 		print("------------------------------------------------------------------")
