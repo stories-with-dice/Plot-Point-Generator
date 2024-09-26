@@ -90,9 +90,22 @@ if __name__ == "__main__":
 	print("Input: 2,4,5,3,1")
 	print("Theme priority: Tensom, Social, Personal, Mystery, Action")
 	
-	values_string = input()
+	#values_string = input()
 	
-	values = values_string.split(',')
+	#values = values_string.split(',')
+
+	# Input values
+	values_string = input().strip()  # Strip leading/trailing whitespace
+
+	# Debugging: print the input to ensure it's correct
+	print(f"Raw input: '{values_string}'")
+
+	# Split the input into a list and clean each item
+	values = [value.strip() for value in values_string.split(',') if value.strip()]
+
+	# Debugging: print the list to ensure it's what you expect
+	print(f"Processed values: {values}")
+
 
 	if len(values) != 5:
 		print("Please input 5 themes.")
