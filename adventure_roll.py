@@ -43,7 +43,7 @@ def get_plot_point(theme):
     
     file_path = f"json/{theme.lower()}_table.json"
 
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r',  encoding='utf-8') as file:
         table_data = json.load(file)
     
     roll = random.randint(1, 100)
@@ -62,7 +62,7 @@ def get_meta_plot_point():
 
 	file_path = "json/meta_table.json"
 	
-	with open(file_path, 'r') as file:
+	with open(file_path, 'r',  encoding='utf-8') as file:
 	    table_data = json.load(file)
 	roll = random.randint(1, 100)
 	print("d100 roll: ", roll)
@@ -93,10 +93,16 @@ if __name__ == "__main__":
 	values_string = input()
 	
 	values = values_string.split(',')
+
+	if len(values) != 5:
+		print("Please input 5 themes.")
+		exit()
 	
 	values = [str(value) for value in values]  # Convert each value to a string
 
 	themes = values_to_themes(values)
+
+
 
 	while True:
 		print("------------------------------------------------------------------")
