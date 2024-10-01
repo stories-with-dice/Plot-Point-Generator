@@ -119,17 +119,22 @@ if __name__ == "__main__":
 	print(f"Themes: {themes}")  # This should print all 5 themes in one line
 
 	while True:
-		print("------------------------------------------------------------------")
-		theme = theme_roll(themes)
-		print("Theme: ",theme)
-		plot_point = get_plot_point(theme)
-		print("Name: ", plot_point[0])
-		print("Description: ", plot_point[1])
-		if plot_point[0] == "META":
-			print("------------------- META PLOT POINT ---------------------")
-			plot_point = get_meta_plot_point()
+		try:
+			num_plot_points = int(input("Enter the number of plot points to generate: "))
+		except ValueError:
+			print("Please enter a valid number.")
+			continue
+		for i in range(num_plot_points):
+			print("------------------------------------------------------------------")
+			theme = theme_roll(themes)
+			print("Theme: ",theme)
+			plot_point = get_plot_point(theme)
 			print("Name: ", plot_point[0])
 			print("Description: ", plot_point[1])
-		print("------------------------------------------------------------------")
-		input("Press Enter to roll a new plot point...")
+			if plot_point[0] == "META":
+				print("------------------- META PLOT POINT ---------------------")
+				plot_point = get_meta_plot_point()
+				print("Name: ", plot_point[0])
+				print("Description: ", plot_point[1])
+			print("------------------------------------------------------------------")
 	
