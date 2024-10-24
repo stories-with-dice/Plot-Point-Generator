@@ -2,7 +2,8 @@
 
 import argparse
 import random
-
+from pathlib import Path
+import os
 import json
 
 rolled_10 = False
@@ -15,11 +16,14 @@ THEMES = [
     "Tension"
 ]
 
+cur_dir = Path(os.path.dirname(os.path.abspath(__file__)))
 
-def theme_roll(themes):
+
+def theme_roll(themes, verbose):
     global rolled_10
     roll = random.randint(1, 10)
-    print("Theme roll d10: ", roll)
+    if verbose:
+        print("Theme roll d10: ", roll)
     if 1 <= roll <= 4:
         return themes[0]
     if 5 <= roll <= 7:
@@ -51,14 +55,15 @@ def values_to_themes(values):
     return themes
 
 
-def get_plot_point(theme):
-    file_path = f"json/{theme.lower()}_table.json"
+def get_plot_point(theme, verbose):
+    file_path = cur_dir / f"json/{theme.lower()}_table.json"
 
     with open(file_path, 'r', encoding='utf-8') as file:
         table_data = json.load(file)
 
     roll = random.randint(1, 100)
-    print("d100 roll: ", roll)
+    if verbose:
+        print("d100 roll: ", roll)
 
     for plot_point in table_data[f"{theme.lower()}_plot_points"]:
         roll_range = plot_point['roll'].split('-')
@@ -70,13 +75,14 @@ def get_plot_point(theme):
                 return plot_point['name'], plot_point['description']
 
 
-def get_meta_plot_point():
-    file_path = "json/meta_table.json"
+def get_meta_plot_point(verbose):
+    file_path = cur_dir / "json/meta_table.json"
 
     with open(file_path, 'r', encoding='utf-8') as file:
         table_data = json.load(file)
     roll = random.randint(1, 100)
-    print("d100 roll: ", roll)
+    if verbose:
+        print("d100 roll: ", roll)
 
     for plot_point in table_data["meta_plot_points"]:
         roll_range = plot_point['roll'].split('-')
@@ -119,22 +125,31 @@ def read_input_themes():
     return themes
 
 
-def roll_plot_points(themes, nr_points):
+def roll_plot_points(themes, nr_points, markdown, verbose):
+    if markdown:
+        print("```")
+
     for i in range(nr_points):
-        print("------------------------------------------------------------------")
-        theme = theme_roll(themes)
+        if not markdown:
+            print("------------------------------------------------------------------")
+        theme = theme_roll(themes, verbose)
         print("Theme: ", theme)
-        plot_point = get_plot_point(theme)
+        plot_point = get_plot_point(theme, verbose)
 
         if plot_point[0] != "META":
             print("Name: ", plot_point[0])
             print("Description: ", plot_point[1])
 
         elif plot_point[0] == "META":
-            print("------------------- META PLOT POINT ---------------------")
-            plot_point = get_meta_plot_point()
+            if not markdown:
+                print("------------------- META PLOT POINT ---------------------")
+            
+            plot_point = get_meta_plot_point(verbose)
             print("Name: ", plot_point[0])
             print("Description: ", plot_point[1])
+
+    if markdown:
+        print("```")
 
 
 if __name__ == "__main__":
@@ -152,11 +167,25 @@ if __name__ == "__main__":
         required=False
     )
     parser.add_argument(
+        "--verbose",
+        help="whether to print dice rolls",
+        action='store_true',
+        required=False,
+        default=False
+    )
+    parser.add_argument(
         "--points",
         help="nr. of plot points to generate",
         type=int,
         required=False,
         default=5
+    )
+    parser.add_argument(
+        "--markdown",
+        help="whether to output markdown-friendly string",
+        action='store_true',
+        required=False,
+        default=False
     )
     args = parser.parse_args()
 
@@ -172,11 +201,12 @@ if __name__ == "__main__":
     else:
         themes = read_input_themes()
 
-    # Debugging: print the list of themes to check if all are processed
-    print(f"Themes: {themes}")  # This should print all 5 themes in one line
+    if args.verbose:
+        # Debugging: print the list of themes to check if all are processed
+        print(f"Themes: {themes}")  # This should print all 5 themes in one line
 
     if args.points:
-        roll_plot_points(themes, args.points)
+        roll_plot_points(themes, args.points, args.markdown, args.verbose)
 
     else:
         while True:
@@ -188,4 +218,4 @@ if __name__ == "__main__":
                 print("Please enter a valid number.")
                 continue
 
-            roll_plot_points(themes, num_plot_points)
+            roll_plot_points(themes, num_plot_points, args.markdown, args.verbose)

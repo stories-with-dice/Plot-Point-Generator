@@ -48,7 +48,7 @@
     {
       "roll": "36",
       "name": "FAME",
-      "description": "Whatever is happening in this Turning Point involves someone famous to some extent. This doesn’t necessarily mean that a famous Character is Invoked, just that the Turning Point has some connection to fame. For instance, if this Turning Point involves learning a secret about another Character, you may learn that they were once a member of a famous superhero group decades ago."
+      "description": "Whatever is happening in this Turning Point involves someone famous to some extent. This doesn't necessarily mean that a famous Character is Invoked, just that the Turning Point has some connection to fame. For instance, if this Turning Point involves learning a secret about another Character, you may learn that they were once a member of a famous superhero group decades ago."
     },
     {
       "roll": "37",
@@ -68,12 +68,12 @@
     {
       "roll": "40-41",
       "name": "HEADQUARTERS",
-      "description": "A setting in this Turning Point is a Character’s main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard’s wilderness tower."
+      "description": "A setting in this Turning Point is a Character's main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard's wilderness tower."
     },
     {
       "roll": "42-43",
       "name": "A COMMON SOCIAL GATHERING",
-      "description": "This Turning Point involves a social gathering. This can be any gathering of people, generally for a common purpose, such as gathering for dinner at a home or restaurant, or an afternoon at a mall. The social gathering itself should be considered of a mundane nature, although what else transpires at the gathering doesn’t necessarily have to be."
+      "description": "This Turning Point involves a social gathering. This can be any gathering of people, generally for a common purpose, such as gathering for dinner at a home or restaurant, or an afternoon at a mall. The social gathering itself should be considered of a mundane nature, although what else transpires at the gathering doesn't necessarily have to be."
     },
     {
       "roll": "44-45",
@@ -113,7 +113,7 @@
     {
       "roll": "55",
       "name": "NOT THEIR MASTER",
-      "description": "A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who’s been trying to kill a Character doesn’t work for the mafia like you thought, but for a corporation who has an interest in that Character."
+      "description": "A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who's been trying to kill a Character doesn't work for the mafia like you thought, but for a corporation who has an interest in that Character."
     },
     {
       "roll": "56-57",
@@ -183,7 +183,7 @@
     {
       "roll": "77",
       "name": "POWERFUL PERSON",
-      "description": "This Turning Point involves a powerful person. The Character’s power can be of any nature, from a physically powerful warrior to a government figure with a lot of influence. Invoke a Character. If the Character is powerful, then that is the powerful person. If they are not, then the powerful person is someone associated with that Character in some way."
+      "description": "This Turning Point involves a powerful person. The Character's power can be of any nature, from a physically powerful warrior to a government figure with a lot of influence. Invoke a Character. If the Character is powerful, then that is the powerful person. If they are not, then the powerful person is someone associated with that Character in some way."
     },
     {
       "roll": "78",
@@ -222,7 +222,7 @@
     },
     {
       "roll": "88-89",
-      "name": "IT’S BUSINESS",
+      "name": "IT'S BUSINESS",
       "description": "This Turning Point involves business or commerce in some way. It can either be a business transaction, or a business is involved in the Turning Point. For instance, a corporation hires a super hero to protect an important shipment, or a book of antiquity containing a needed spell has to be purchased from an auction house."
     },
     {
@@ -233,7 +233,7 @@
     {
       "roll": "91",
       "name": "CONFRONTATION",
-      "description": "This Turning Point involves Characters meeting in a confrontation that may turn physical if things don’t go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent."
+      "description": "This Turning Point involves Characters meeting in a confrontation that may turn physical if things don't go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent."
     },
     {
       "roll": "92-93",

@@ -13,7 +13,7 @@
     {
       "roll": "25-26",
       "name": "INTO THE UNKNOWN",
-      "description": "This Turning Point involves Characters entering a situation with unknown factors. To know the unknown, you have to commit to it. For instance, a magic portal where there is no way of knowing what’s on the other side except by walking through it. Or, you discover a machine that is very powerful but you have no idea what it does, except if you turn it on. The only way to discover the unknown is to engage it, when it will be too late if you regret it."
+      "description": "This Turning Point involves Characters entering a situation with unknown factors. To know the unknown, you have to commit to it. For instance, a magic portal where there is no way of knowing what's on the other side except by walking through it. Or, you discover a machine that is very powerful but you have no idea what it does, except if you turn it on. The only way to discover the unknown is to engage it, when it will be too late if you regret it."
     },
     {
       "roll": "27-28",
@@ -32,8 +32,8 @@
     },
     {
       "roll": "33",
-      "name": "THIS ISN’T WORKING",
-      "description": "Something that is supposed to be working is not for some reason, causing a problem. For instance, a binding spell is failing to hold a demon, or a crime boss is delivering stolen goods through a shipping port that is supposed to be secure but turns out to be swarming with police. Whatever isn’t working is something that was assumed would work."
+      "name": "THIS ISN'T WORKING",
+      "description": "Something that is supposed to be working is not for some reason, causing a problem. For instance, a binding spell is failing to hold a demon, or a crime boss is delivering stolen goods through a shipping port that is supposed to be secure but turns out to be swarming with police. Whatever isn't working is something that was assumed would work."
     },
     {
       "roll": "34-35",
@@ -43,7 +43,7 @@
     {
       "roll": "36",
       "name": "FORTUITOUS FIND",
-      "description": "A Character runs across something very useful for resolving the Plotline. This may be a piece of information, a useful tool, a resource that is needed, a person who can help, etc. Whatever it is, it’s the right thing at the right time, and it falls into the Character’s lap."
+      "description": "A Character runs across something very useful for resolving the Plotline. This may be a piece of information, a useful tool, a resource that is needed, a person who can help, etc. Whatever it is, it's the right thing at the right time, and it falls into the Character's lap."
     },
     {
       "roll": "37",
@@ -58,7 +58,7 @@
     {
       "roll": "40",
       "name": "CRYPTIC INFORMATION FROM A KNOWN SOURCE",
-      "description": "A Character acquires information that is not immediately useful from a known source. The information is cryptic, the Character doesn’t know what it means. For instance, a crewmember leaves behind a note to be found that simply says, “Kraton,” where the Character receiving the note has no idea what “Kraton” is."
+      "description": "A Character acquires information that is not immediately useful from a known source. The information is cryptic, the Character doesn't know what it means. For instance, a crewmember leaves behind a note to be found that simply says, “Kraton,” where the Character receiving the note has no idea what “Kraton” is."
     },
     {
       "roll": "41-42",
@@ -68,7 +68,7 @@
     {
       "roll": "43",
       "name": "SOMETHING EXOTIC",
-      "description": "Whatever is happening in this Turning Point it involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he’s disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
+      "description": "Whatever is happening in this Turning Point it involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he's disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
     },
     {
       "roll": "44-45",
@@ -77,8 +77,8 @@
     },
     {
       "roll": "46-47",
-      "name": "IT’S A SECRET",
-      "description": "This Turning Point involves an activity that is done in secret, such as smuggling or embezzlement. The activity doesn’t have to be illegal, but whatever it is, it is something hidden or being done behind an otherwise legitimate front. For instance, a fast food chain is using its delivery trucks to smuggle drugs across the border."
+      "name": "IT'S A SECRET",
+      "description": "This Turning Point involves an activity that is done in secret, such as smuggling or embezzlement. The activity doesn't have to be illegal, but whatever it is, it is something hidden or being done behind an otherwise legitimate front. For instance, a fast food chain is using its delivery trucks to smuggle drugs across the border."
     },
     {
       "roll": "48",
@@ -103,7 +103,7 @@
     {
       "roll": "53",
       "name": "A CHARACTER ACTS OUT OF CHARACTER",
-      "description": "A Character does something that runs counter to that Character’s perceived goals or personality. The action may seem at odds to how they’ve been acting (such as a trusted member of a team sabotaging a crucial resource) or the action is vague with no discernible purpose (such as a Character meeting with an unknown person in secret)."
+      "description": "A Character does something that runs counter to that Character's perceived goals or personality. The action may seem at odds to how they've been acting (such as a trusted member of a team sabotaging a crucial resource) or the action is vague with no discernible purpose (such as a Character meeting with an unknown person in secret)."
     },
     {
       "roll": "54",
@@ -118,7 +118,7 @@
     {
       "roll": "57",
       "name": "SECRET INFORMATION LEAKED",
-      "description": "Information that should not have gotten into the wrong hands has. For instance, outlaws always seem to know when the stagecoach is coming through Gateway Gulch with the railroad payroll. How are they finding out? Or, an enemy spy has learned of the realm’s secret military plans."
+      "description": "Information that should not have gotten into the wrong hands has. For instance, outlaws always seem to know when the stagecoach is coming through Gateway Gulch with the railroad payroll. How are they finding out? Or, an enemy spy has learned of the realm's secret military plans."
     },
     {
       "roll": "58-59",
@@ -128,7 +128,7 @@
     {
       "roll": "60-61",
       "name": "EVIDENCE",
-      "description": "A Character finds something that helps settle an existing question. For instance, the gun that killed a victim is found stashed under a suspect’s bed."
+      "description": "A Character finds something that helps settle an existing question. For instance, the gun that killed a victim is found stashed under a suspect's bed."
     },
     {
       "roll": "62-63",
@@ -148,7 +148,7 @@
     {
       "roll": "66-67",
       "name": "CRYPTIC INFORMATION FROM AN UNKNOWN SOURCE",
-      "description": "Information that is unclear what it means is received from an anonymous source. Maybe an odd word is found scrawled on a mirror, or a stranger’s diary is found talking about events similar to the Plotline."
+      "description": "Information that is unclear what it means is received from an anonymous source. Maybe an odd word is found scrawled on a mirror, or a stranger's diary is found talking about events similar to the Plotline."
     },
     {
       "roll": "68-69",
@@ -158,7 +158,7 @@
     {
       "roll": "70",
       "name": "NOT THEIR MASTER",
-      "description": "A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who’s been trying to kill a Character doesn’t work for the mafia like you thought, but for a corporation who has an interest in that Character."
+      "description": "A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who's been trying to kill a Character doesn't work for the mafia like you thought, but for a corporation who has an interest in that Character."
     },
     {
       "roll": "71-72",
@@ -168,12 +168,12 @@
     {
       "roll": "73-74",
       "name": "HIDDEN AGENDA",
-      "description": "A Character either reveals, or is found out to have, a motive that they had not previously exposed. For instance, maybe the detective isn’t investigating the murder out of dedication to his job, but the victim used to be a love interest of his. Classically, this can also be the ally who turns out to be an enemy. The hidden agenda doesn’t have to be something nefarious, although it can be. Whichever the case, the agenda now becomes known to others."
+      "description": "A Character either reveals, or is found out to have, a motive that they had not previously exposed. For instance, maybe the detective isn't investigating the murder out of dedication to his job, but the victim used to be a love interest of his. Classically, this can also be the ally who turns out to be an enemy. The hidden agenda doesn't have to be something nefarious, although it can be. Whichever the case, the agenda now becomes known to others."
     },
     {
       "roll": "75",
       "name": "AN OBJECT OF UNKNOWN USE IS FOUND",
-      "description": "A Character finds something that they think is useful, but they do not know in what way. This may be a magic wand that they don’t know how to use, a key that they don’t know the lock it goes to, a device with an unknown purpose but currently has no power, etc."
+      "description": "A Character finds something that they think is useful, but they do not know in what way. This may be a magic wand that they don't know how to use, a key that they don't know the lock it goes to, a device with an unknown purpose but currently has no power, etc."
     },
     {
       "roll": "76",
@@ -228,7 +228,7 @@
     {
       "roll": "89",
       "name": "VULNERABILITY EXPLOITED",
-      "description": "This Turning Point involves a vulnerability of some kind being exploited by a Character. For instance, someone knowing of another’s crime and blackmailing them, Characters learning of a starbase’s secret vulnerability that allows it to be destroyed, etc. This Turning Point can either involve learning about the vulnerability or actively exploiting it."
+      "description": "This Turning Point involves a vulnerability of some kind being exploited by a Character. For instance, someone knowing of another's crime and blackmailing them, Characters learning of a starbase's secret vulnerability that allows it to be destroyed, etc. This Turning Point can either involve learning about the vulnerability or actively exploiting it."
     },
     {
       "roll": "90-91",
@@ -243,7 +243,7 @@
     {
       "roll": "94",
       "name": "CONSPIRACY THEORY",
-      "description": "A Character believes in a scenario that explains a problem in this Adventure. The Character may be right or wrong, but the theory may cause action on the part of the Character. For instance, a group is holed up in a mall during a zombie apocalypse. One Character believes it’s just a disease, so they encourage the others not to shoot the zombies."
+      "description": "A Character believes in a scenario that explains a problem in this Adventure. The Character may be right or wrong, but the theory may cause action on the part of the Character. For instance, a group is holed up in a mall during a zombie apocalypse. One Character believes it's just a disease, so they encourage the others not to shoot the zombies."
     },
     {
       "roll": "95",

@@ -48,12 +48,12 @@
     {
       "roll": "35-36",
       "name": "HUNTED",
-      "description": "A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn’t have to be seeking to kill."
+      "description": "A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn't have to be seeking to kill."
     },
     {
       "roll": "37",
       "name": "DISTRACTION",
-      "description": "A Character is distracted in this Turning Point in such a way that it impacts events. For instance, before a villain delivers his killing blow he’s distracted by an image of his lost love, giving the hero time to escape."
+      "description": "A Character is distracted in this Turning Point in such a way that it impacts events. For instance, before a villain delivers his killing blow he's distracted by an image of his lost love, giving the hero time to escape."
     },
     {
       "roll": "38-39",
@@ -63,12 +63,12 @@
     {
       "roll": "40",
       "name": "SOMETHING EXOTIC",
-      "description": "Whatever is happening in this Turning Point it involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he’s disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
+      "description": "Whatever is happening in this Turning Point it involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he's disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
     },
     {
       "roll": "41-42",
       "name": "IMMEDIATELY",
-      "description": "Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn’t have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action."
+      "description": "Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn't have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action."
     },
     {
       "roll": "43-44",
@@ -108,7 +108,7 @@
     {
       "roll": "56-57",
       "name": "VICTORY!",
-      "description": "A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king’s couriers, or a hacker worms his way into a corporate computer system."
+      "description": "A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king's couriers, or a hacker worms his way into a corporate computer system."
     },
     {
       "roll": "58-59",
@@ -118,7 +118,7 @@
     {
       "roll": "60-61",
       "name": "SOLE SURVIVOR",
-      "description": "This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn’t have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien’s ultimate challenge."
+      "description": "This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn't have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien's ultimate challenge."
     },
     {
       "roll": "62-63",
@@ -193,7 +193,7 @@
     {
       "roll": "88-89",
       "name": "CONFRONTATION",
-      "description": "This Turning Point involves Characters meeting in a confrontation that may turn physical if things don’t go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent."
+      "description": "This Turning Point involves Characters meeting in a confrontation that may turn physical if things don't go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent."
     },
     {
       "roll": "90-91",

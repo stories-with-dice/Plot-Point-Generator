@@ -13,7 +13,7 @@
     {
       "roll": "25-26",
       "name": "INTO THE UNKNOWN",
-      "description": "This Turning Point involves Characters entering a situation with unknown factors. To know the unknown, you have to commit to it. For instance, a magic portal where there is no way of knowing what’s on the other side except by walking through it. Or, you discover a machine that is very powerful but you have no idea what it does, except if you turn it on. The only way to discover the unknown is to engage it, when it will be too late if you regret it."
+      "description": "This Turning Point involves Characters entering a situation with unknown factors. To know the unknown, you have to commit to it. For instance, a magic portal where there is no way of knowing what's on the other side except by walking through it. Or, you discover a machine that is very powerful but you have no idea what it does, except if you turn it on. The only way to discover the unknown is to engage it, when it will be too late if you regret it."
     },
     {
       "roll": "27",
@@ -43,7 +43,7 @@
     {
       "roll": "33",
       "name": "DO IT, OR ELSE",
-      "description": "A Character is being given a task, and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat’s illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is “Do this or I will kill you”."
+      "description": "A Character is being given a task, and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat's illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is “Do this or I will kill you”."
     },
     {
       "roll": "34",
@@ -78,27 +78,27 @@
     {
       "roll": "41",
       "name": "HUNTED",
-      "description": "A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn’t have to be seeking to kill."
+      "description": "A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn't have to be seeking to kill."
     },
     {
       "roll": "42",
       "name": "BAD DECISION",
-      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship’s captain decided to investigate a distress beacon in deep space, only to find it’s a trap laid by pirates."
+      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship's captain decided to investigate a distress beacon in deep space, only to find it's a trap laid by pirates."
     },
     {
       "roll": "43",
       "name": "WANTED BY THE LAW",
-      "description": "A Character is wanted for a crime. It doesn’t matter if they actually did the crime, but the law is after them as the main suspect either way."
+      "description": "A Character is wanted for a crime. It doesn't matter if they actually did the crime, but the law is after them as the main suspect either way."
     },
     {
       "roll": "44",
       "name": "SOMETHING EXOTIC",
-      "description": "Whatever is happening in this Turning Point involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he’s disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
+      "description": "Whatever is happening in this Turning Point involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he's disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves)."
     },
     {
       "roll": "45",
       "name": "IMMEDIATELY",
-      "description": "Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn’t have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action."
+      "description": "Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn't have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action."
     },
     {
       "roll": "46",
@@ -173,7 +173,7 @@
     {
       "roll": "62",
       "name": "VICTORY!",
-      "description": "A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king’s couriers, or a hacker worms his way into a corporate computer system."
+      "description": "A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king's couriers, or a hacker worms his way into a corporate computer system."
     },
     {
       "roll": "63",
@@ -183,7 +183,7 @@
     {
       "roll": "64",
       "name": "SOLE SURVIVOR",
-      "description": "This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn’t have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien’s ultimate challenge."
+      "description": "This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn't have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien's ultimate challenge."
     },
     {
       "roll": "65-66",
@@ -198,7 +198,7 @@
     {
       "roll": "69-70",
       "name": "DISARMED",
-      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another’s kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
+      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another's kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
     },
     {
       "roll": "71",
@@ -213,7 +213,7 @@
     {
       "roll": "73",
       "name": "HIDDEN THREAT",
-      "description": "There is a threat in this Turning Point that has been in the Adventure previous to this Turning Point but went undetected. This could be anything from an evil spirit lurking in an ancient vase to a virus in a person’s body to a good guy who turns out to be a bad guy, etc."
+      "description": "There is a threat in this Turning Point that has been in the Adventure previous to this Turning Point but went undetected. This could be anything from an evil spirit lurking in an ancient vase to a virus in a person's body to a good guy who turns out to be a bad guy, etc."
     },
     {
       "roll": "74-75",
@@ -227,28 +227,28 @@
     },
     {
       "roll": "78-79",
-      "name": "IT’S A TRAP!",
+      "name": "IT'S A TRAP!",
       "description": "This Turning Point involves a trap of some kind. This can be a physical trap, such as adventurers falling prey to a pit in a hallway, to other kinds of traps, such as the summons to the peace negotiation was really just a ruse to get the leader in sights for an assassination."
     },
     {
       "roll": "80-81",
       "name": "TIME LIMIT",
-      "description": "A task must be accomplished within a certain amount of time or a Character will suffer consequences. The time limit does not need to expire within this Turning Point and could extend beyond it further into the Adventure, but it should terminate within this Adventure to give the Characters a reason to accomplish the task. Failure to accomplish the task should be significant. For instance, if a cure to a toxin isn’t found within a day, the prince will die."
+      "description": "A task must be accomplished within a certain amount of time or a Character will suffer consequences. The time limit does not need to expire within this Turning Point and could extend beyond it further into the Adventure, but it should terminate within this Adventure to give the Characters a reason to accomplish the task. Failure to accomplish the task should be significant. For instance, if a cure to a toxin isn't found within a day, the prince will die."
     },
     {
       "roll": "82-83",
       "name": "A NEEDED RESOURCE IS RUNNING SHORT",
-      "description": "A resource a Character needs is running low and will need to be replenished. This causes problems for the Character. For instance, a starship’s warp engine functions on crystals that are running out."
+      "description": "A resource a Character needs is running low and will need to be replenished. This causes problems for the Character. For instance, a starship's warp engine functions on crystals that are running out."
     },
     {
       "roll": "84-85",
       "name": "BAD NEWS",
-      "description": "Something negative that happens in this Turning Point doesn’t happen directly in the Turning Point but is delivered in the form of information. The event happened remotely, and a Character is learning of it. For instance, Characters may learn their allies lost a crucial battle elsewhere."
+      "description": "Something negative that happens in this Turning Point doesn't happen directly in the Turning Point but is delivered in the form of information. The event happened remotely, and a Character is learning of it. For instance, Characters may learn their allies lost a crucial battle elsewhere."
     },
     {
       "roll": "86",
       "name": "HUNKER DOWN",
-      "description": "This Turning Point involves a Character needing to fortify a place of refuge. For instance, a baron must shore up his castle defenses against an impending attack, or a generator must be fueled up to increase a force field’s power before a meteor storm rains down on the planet surface."
+      "description": "This Turning Point involves a Character needing to fortify a place of refuge. For instance, a baron must shore up his castle defenses against an impending attack, or a generator must be fueled up to increase a force field's power before a meteor storm rains down on the planet surface."
     },
     {
       "roll": "87-88",
@@ -283,7 +283,7 @@
     {
       "roll": "95",
       "name": "VULNERABILITY EXPLOITED",
-      "description": "This Turning Point involves a vulnerability of some kind being exploited by a Character. For instance, someone knowing of another’s crime and blackmailing them, Characters learning of a starbase’s secret vulnerability that allows it to be destroyed, etc. This Turning Point can either involve learning about the vulnerability or actively exploiting it.."
+      "description": "This Turning Point involves a vulnerability of some kind being exploited by a Character. For instance, someone knowing of another's crime and blackmailing them, Characters learning of a starbase's secret vulnerability that allows it to be destroyed, etc. This Turning Point can either involve learning about the vulnerability or actively exploiting it.."
     },
     {
       "roll": "96-100",
