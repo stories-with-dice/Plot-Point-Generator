@@ -19,6 +19,27 @@ cd Plot-Point-Generator
 
 ## Usage
 
+
+### CLI mode
+
+1. You can provide the list of themes from the CLI
+
+```bash
+python adventure_roll.py --themes "Tension, Social, Personal, Mystery, Action"
+```
+
+This generates five plot points by default.
+
+2. You can change the nr of Plot Points with the `--points` argument.
+
+```bash
+python adventure_roll.py --themes "Tension, Social, Personal, Mystery, Action" --points 2
+```
+
+3. You can let the program randomly assign theme priorities with `--random`
+
+### Interactive mode
+
 1. Run the script:
 
 ```bash
@@ -41,6 +62,8 @@ python adventure_roll.py
 Example priority input:
 ```
 Input: 2,4,5,3,1
-Theme priority: Tension, Social, Personal, Mystery, Action
 ```
 
+```
+Theme priority: Tension, Social, Personal, Mystery, Action
+```
