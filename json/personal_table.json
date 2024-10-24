@@ -18,7 +18,7 @@
     {
       "roll": "27",
       "name": "DO IT, OR ELSE",
-      "description": "A Character is being given a task and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat’s illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is 'Do this or I will kill you'."
+      "description": "A Character is being given a task and is being pressured into completing the task with a threat. For instance, a spy is forcing a diplomat to hand over technology secrets or he will expose the diplomat's illegal activities and send him to jail. Of course, probably the most common form of this Plot Point is 'Do this or I will kill you'."
     },
     {
       "roll": "28",
@@ -28,17 +28,17 @@
     {
       "roll": "29",
       "name": "BAD DECISION",
-      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship’s captain decided to investigate a distress beacon in deep space, only to find it’s a trap laid by pirates."
+      "description": "A decision a Character made has turned out to be a very bad one. This can be a decision made earlier in the Adventure, or it can be something from before the Adventure. This earlier decision may not have seemed like a bad one at the time, but it has turned out to be bad, either for the Character, for others, or both. For instance, maybe a ship's captain decided to investigate a distress beacon in deep space, only to find it's a trap laid by pirates."
     },
     {
       "roll": "30-31",
       "name": "ILL WILL",
-      "description": "A Character harbors ill will toward another Character for some reason. The animosity should be deep-seated and color the Character’s reactions when it comes to the unliked Character. The dislike may be reciprocated or not."
+      "description": "A Character harbors ill will toward another Character for some reason. The animosity should be deep-seated and color the Character's reactions when it comes to the unliked Character. The dislike may be reciprocated or not."
     },
     {
       "roll": "32-33",
       "name": "WANTED BY THE LAW",
-      "description": "A Character is wanted for a crime. It doesn’t matter if they actually did the crime, but the law is after them as the main suspect either way."
+      "description": "A Character is wanted for a crime. It doesn't matter if they actually did the crime, but the law is after them as the main suspect either way."
     },
     {
       "roll": "34-35",
@@ -78,7 +78,7 @@
     {
       "roll": "46",
       "name": "HEADQUARTERS",
-      "description": "A setting in this Turning Point is a Character’s main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard’s wilderness tower."
+      "description": "A setting in this Turning Point is a Character's main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard's wilderness tower."
     },
     {
       "roll": "47-48",
@@ -88,7 +88,7 @@
     {
       "roll": "49",
       "name": "A FIGURE FROM THE PAST",
-      "description": "A new Character joins the Adventure, someone from a Character’s past. This Plot Point requires a new Character to be added to the Characters List and Invoked."
+      "description": "A new Character joins the Adventure, someone from a Character's past. This Plot Point requires a new Character to be added to the Characters List and Invoked."
     },
     {
       "roll": "50-51",
@@ -103,7 +103,7 @@
     {
       "roll": "54",
       "name": "DOING THE RIGHT THING",
-      "description": "A Character who is acting in bad faith in some way has a change of heart and decides to do the right thing. For instance, a con man stealing medicine from a diseased community decides he can’t leave all those people to die."
+      "description": "A Character who is acting in bad faith in some way has a change of heart and decides to do the right thing. For instance, a con man stealing medicine from a diseased community decides he can't leave all those people to die."
     },
     {
       "roll": "55-56",
@@ -118,21 +118,21 @@
     {
       "roll": "59-60",
       "name": "HELP IS OFFERED, FOR A PRICE",
-      "description": "A Character offers to help another Character in exchange for something. What’s being asked for could be anything, from mutual aid to a fee. Whatever the price, it should be steep enough to be of real significance to the paying Character."
+      "description": "A Character offers to help another Character in exchange for something. What's being asked for could be anything, from mutual aid to a fee. Whatever the price, it should be steep enough to be of real significance to the paying Character."
     },
     {
       "roll": "61-62",
       "name": "PRIZED POSSESSION",
-      "description": "Whatever is happening in this Turning Point, it involves an important possession of a Character. For instance, if the Turning Point is about something being stolen, maybe a sorcerer’s magic staff is taken."
+      "description": "Whatever is happening in this Turning Point, it involves an important possession of a Character. For instance, if the Turning Point is about something being stolen, maybe a sorcerer's magic staff is taken."
     },
     {
       "roll": "63",
       "name": "DISARMED",
-      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another’s kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
+      "description": "A Character loses their primary method of defending themselves. This could mean the loss of a weapon, or maybe a powerful bureaucrat is powerless in another's kingdom, etc. The disarmament should be temporary for the Turning Point and deprive the Character of crucial defenses."
     },
     {
       "roll": "64-65",
-      "name": "IT’S ALL ABOUT YOU",
+      "name": "IT'S ALL ABOUT YOU",
       "description": "Whatever the main action of this Turning Point, it is focused primarily on one Character."
     },
     {
@@ -148,12 +148,12 @@
     {
       "roll": "69-70",
       "name": "WILLING TO TALK",
-      "description": "A Character is in a mood to talk. Whatever it is they have to say, it’s important to furthering the Plotline."
+      "description": "A Character is in a mood to talk. Whatever it is they have to say, it's important to furthering the Plotline."
     },
         {
       "roll": "71-72",
       "name": "CHARACTER HARM",
-      "description": "A Character hurts another Character in some personal way. For instance, a villain harms a wizard’s familiar or a Character hurls a personal insult at another Character."
+      "description": "A Character hurts another Character in some personal way. For instance, a villain harms a wizard's familiar or a Character hurls a personal insult at another Character."
     },
     {
       "roll": "73",
@@ -173,7 +173,7 @@
     {
       "roll": "77",
       "name": "UNTOUCHABLE",
-      "description": "A Character is, in some manner, untouchable by others in this Turning Point. For instance, a villain who is a world leader and thus can’t be directly attacked without triggering an international incident, or a superhero who is nearly impervious to harm. The untouchableness should serve a plot purpose, so that Characters are forced to take other actions to advance the Plotline."
+      "description": "A Character is, in some manner, untouchable by others in this Turning Point. For instance, a villain who is a world leader and thus can't be directly attacked without triggering an international incident, or a superhero who is nearly impervious to harm. The untouchableness should serve a plot purpose, so that Characters are forced to take other actions to advance the Plotline."
     },
     {
       "roll": "78",
@@ -198,7 +198,7 @@
     {
       "roll": "84",
       "name": "LIKEABLE",
-      "description": "This Turning Point involves a Character who is very likable to another Character. Whoever it is, it should be someone who generates sympathy. The Character’s likability should be strong enough to motivate the other Character’s actions. For instance, a jaded cop thought he has seen it all, but a kidnapped girl kindles in him a desire to save her and redeem himself."
+      "description": "This Turning Point involves a Character who is very likable to another Character. Whoever it is, it should be someone who generates sympathy. The Character's likability should be strong enough to motivate the other Character's actions. For instance, a jaded cop thought he has seen it all, but a kidnapped girl kindles in him a desire to save her and redeem himself."
     },
     {
       "roll": "85-86",
@@ -208,12 +208,12 @@
     {
       "roll": "87",
       "name": "EXPERT KNOWLEDGE",
-      "description": "This Turning Point involves a Character who has very specific and specialized knowledge or skills that come into play during the Turning Point. For instance, only the genius of Dr. Rayder can figure out the intricacies of the alien device, or it’s discovered that a killer is murdering people with his knowledge of exotic poisons."
+      "description": "This Turning Point involves a Character who has very specific and specialized knowledge or skills that come into play during the Turning Point. For instance, only the genius of Dr. Rayder can figure out the intricacies of the alien device, or it's discovered that a killer is murdering people with his knowledge of exotic poisons."
     },
     {
       "roll": "88-89",
       "name": "A FOCUS ON THE MUNDANE",
-      "description": "This Turning Point involves a focus on something mundane and ordinary, such as a person’s living room or a meal. This mundane thing may be coupled with something extraordinary in the Turning Point. For instance, a Character is killed when his nightly dinner is poisoned, or a family portrait is found to be a cursed item."
+      "description": "This Turning Point involves a focus on something mundane and ordinary, such as a person's living room or a meal. This mundane thing may be coupled with something extraordinary in the Turning Point. For instance, a Character is killed when his nightly dinner is poisoned, or a family portrait is found to be a cursed item."
     },
     {
       "roll": "90-91",
